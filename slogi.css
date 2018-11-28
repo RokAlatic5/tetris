@@ -1,0 +1,24 @@
+body{
+	display: flex;
+}
+div{
+    width: 200px;
+    height: 200px
+}
+#Zgoraj{
+   background-color: green;
+   margin-left: 400px;
+}
+#Levo{
+   background-color: skyblue;
+   margin-top: 200px;
+   margin-left: -400px;
+}
+#Center{
+   background-color: lightgreen;
+   margin-top: 200px
+}
+#Desno{
+   background-color: purple;
+   margin-top: 200px;
+}
